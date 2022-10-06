@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://hagonin.github.io/csb-l8jtot/static/css/main.08c77b8d.chunk.css",
+    "main.js": "https://hagonin.github.io/csb-l8jtot/static/js/main.f13cc20d.chunk.js",
+    "main.js.map": "https://hagonin.github.io/csb-l8jtot/static/js/main.f13cc20d.chunk.js.map",
+    "runtime-main.js": "https://hagonin.github.io/csb-l8jtot/static/js/runtime-main.1d637fa4.js",
+    "runtime-main.js.map": "https://hagonin.github.io/csb-l8jtot/static/js/runtime-main.1d637fa4.js.map",
+    "static/js/2.33520156.chunk.js": "https://hagonin.github.io/csb-l8jtot/static/js/2.33520156.chunk.js",
+    "static/js/2.33520156.chunk.js.map": "https://hagonin.github.io/csb-l8jtot/static/js/2.33520156.chunk.js.map",
+    "index.html": "https://hagonin.github.io/csb-l8jtot/index.html",
+    "static/css/main.08c77b8d.chunk.css.map": "https://hagonin.github.io/csb-l8jtot/static/css/main.08c77b8d.chunk.css.map",
+    "static/js/2.33520156.chunk.js.LICENSE.txt": "https://hagonin.github.io/csb-l8jtot/static/js/2.33520156.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1d637fa4.js",
+    "static/js/2.33520156.chunk.js",
+    "static/css/main.08c77b8d.chunk.css",
+    "static/js/main.f13cc20d.chunk.js"
+  ]
+}
